@@ -3,7 +3,7 @@ A Shiny dynamic tabsetPanel demo
 
 ![demo.png](demo.png)
 
-It is a demo to show how to use a dynamic input to update tab panles dynamically.
+It is a Shiny demo to show how to use a dynamic input to update tab panles.
 
 Every tab contains serveral components, which are also create dynamically.
 
