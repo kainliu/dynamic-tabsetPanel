@@ -1,4 +1,4 @@
-# dynamic-tabsetPanel
+# dynamicTabsetPanel
 A Shiny dynamic tabsetPanel demo 
 
 ![demo.png](demo.png)
